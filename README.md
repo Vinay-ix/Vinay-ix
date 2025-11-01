@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Vinay Sharma  
-🎓 Final-Year B.Tech ECE Student | 💡 Embedded Systems & IoT Developer | 🔬 AI-Driven Healthcare Innovator  
+🎓 Final-Year B.Tech ECE Student @ VIT Chennai | 🔬 Embedded Systems & VLSI Enthusiast | 💡 IoT + AI Innovator
+![Profile Views](https://komarev.com/ghpvc/?username=Vinay-ix&color=blue)
 
 ---
 
