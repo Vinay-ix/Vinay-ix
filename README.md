@@ -47,5 +47,25 @@ I’m obsessed with **Jetson Nano optimization**, **AI assistants**, and **hardw
 Currently exploring **offline LLMs + sensor fusion** for edge AI projects.  
 
 ---
+### ⚙️ Tech Stack
+
+**Languages:**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-404040?style=flat&logoColor=white)
+
+**Hardware / Boards:**
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=espressif&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+
+**Software / Tools:**
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat&logo=mathworks&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 
 ⭐ *“Innovation in electronics isn’t about circuits — it’s about solving real human problems with them.”*
