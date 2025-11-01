@@ -2,6 +2,13 @@
 🎓 Final-Year B.Tech ECE Student @ VIT Chennai | 🔬 Embedded Systems & VLSI Enthusiast | 💡 IoT + AI Innovator
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=false&vCenter=true&width=600&lines=Embedded+Systems+Engineer;VLSI+%26+Verilog+RTL+Designer;AI+%2B+IoT+Innovator)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=500&color=00FFB3&background=000000&vCenter=true&width=800&lines=System+Booting...;Loading+Embedded+Systems+Engineer...;Initializing+VLSI+%26+RTL+Modules...;Activating+AI+%2B+IoT+Healthcare+Protocols...;✅+System+Online%3A+Vinay+Sharma)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3000&pause=600&color=36BCF7&vCenter=true&width=650&lines=Embedded+Systems+Engineer;VLSI+Design+%26+Verification;AI+Driven+Healthcare+Projects;Innovator+%7C+Learner+%7C+Creator)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Vinay+Sharma;Embedded+Systems+%26+VLSI+Enthusiast;IoT+%7C+AI+%7C+Healthcare+Innovation;Building+Smart+Things+that+Matter)](https://git.io/typing-svg)
+
+
 
 ---
 
