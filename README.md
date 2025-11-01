@@ -47,25 +47,62 @@ I’m obsessed with **Jetson Nano optimization**, **AI assistants**, and **hardw
 Currently exploring **offline LLMs + sensor fusion** for edge AI projects.  
 
 ---
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-**Languages:**
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-404040?style=flat&logoColor=white)
+### 🧩 Programming & Scripting
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Hardware / Boards:**
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=espressif&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+---
 
-**Software / Tools:**
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat&logo=mathworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
+### 🧠 Embedded Systems & IoT
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 🔬 VLSI / RTL Design & Verification
+![Verilog HDL](https://img.shields.io/badge/Verilog-404040?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-1A73E8?style=for-the-badge&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![Synopsys Design Compiler](https://img.shields.io/badge/Synopsys_Design_Compiler-6C3483?style=for-the-badge&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence_Tools-B22222?style=for-the-badge&logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-006699?style=for-the-badge&logoColor=white)
+![RTL Simulation](https://img.shields.io/badge/RTL_Simulation-2E86C1?style=for-the-badge)
+![Synthesis](https://img.shields.io/badge/Synthesis-1ABC9C?style=for-the-badge)
+![Static Timing Analysis](https://img.shields.io/badge/Static_Timing_Analysis-884EA0?style=for-the-badge)
+![DFT](https://img.shields.io/badge/DFT-2C3E50?style=for-the-badge)
+
+---
+
+### 🧰 Software & Design Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-003366?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-990000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-sharma-ix)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-ix)
+[![Email](https://img.shields.io/badge/Email-vinaysharma.ece%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaysharma.ece@gmail.com)
+
 
 ⭐ *“Innovation in electronics isn’t about circuits — it’s about solving real human problems with them.”*
