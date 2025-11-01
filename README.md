@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinay Sharma  
 🎓 Final-Year B.Tech ECE Student @ VIT Chennai | 🔬 Embedded Systems & VLSI Enthusiast | 💡 IoT + AI Innovator
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=false&vCenter=true&width=600&lines=Embedded+Systems+Engineer;VLSI+%26+Verilog+RTL+Designer;AI+%2B+IoT+Healthcare+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=false&vCenter=true&width=600&lines=Embedded+Systems+Engineer;VLSI+%26+Verilog+RTL+Designer;AI+%2B+IoT+Innovator)](https://git.io/typing-svg)
 
 
 ---
