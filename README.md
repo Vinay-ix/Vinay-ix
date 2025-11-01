@@ -53,7 +53,6 @@ Currently exploring **offline LLMs + sensor fusion** for edge AI projects.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -74,8 +73,6 @@ Currently exploring **offline LLMs + sensor fusion** for edge AI projects.
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-1A73E8?style=for-the-badge&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
-![Synopsys Design Compiler](https://img.shields.io/badge/Synopsys_Design_Compiler-6C3483?style=for-the-badge&logoColor=white)
 ![Cadence](https://img.shields.io/badge/Cadence_Tools-B22222?style=for-the-badge&logoColor=white)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-006699?style=for-the-badge&logoColor=white)
 ![RTL Simulation](https://img.shields.io/badge/RTL_Simulation-2E86C1?style=for-the-badge)
@@ -92,7 +89,6 @@ Currently exploring **offline LLMs + sensor fusion** for edge AI projects.
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-003366?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-990000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -100,9 +96,9 @@ Currently exploring **offline LLMs + sensor fusion** for edge AI projects.
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-sharma-ix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vinay-sharma-643422310/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-ix)
-[![Email](https://img.shields.io/badge/Email-vinaysharma.ece%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaysharma.ece@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vinaysharma.ece%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaysharma17005@gmail.com)
 
 
 ⭐ *“Innovation in electronics isn’t about circuits — it’s about solving real human problems with them.”*
