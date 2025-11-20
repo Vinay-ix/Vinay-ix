@@ -39,7 +39,6 @@ Check out all my repositories 👉 [github.com/Vinay-ix?tab=repositories](https:
 - 💼 **LinkedIn:** [linkedin.com/in/vinay-sharma-643422310](https://www.linkedin.com/in/vinay-sharma-643422310/) 
 - ✉️ **Email:** vinaysharma17005@gmail.com  
 - 📷 **GitHub:** [github.com/Vinay-ix](https://github.com/Vinay-ix)  
-- 🧠 **Portfolio:** *(coming soon !)*  
 
 ---
 
