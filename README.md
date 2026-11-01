@@ -1,104 +1,35 @@
-# 👋 Hi, I'm Vinay  
-🎓 Final-Year B.Tech ECE Student @ VIT Chennai | 🔬 Embedded Systems & VLSI Enthusiast | 💡 IoT + AI Innovator
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=false&vCenter=true&width=600&lines=Embedded+Systems+Engineer;VLSI+%26+Verilog+RTL+Designer;AI+%2B+IoT+Innovator)](https://git.io/typing-svg)
+# Hi, I'm Vinay Sharma 👋
 
----
+**Embedded Systems · Sensor Fusion · Digital Design**
 
-### 🌟 About Me
-I'm a passionate **Electronics and Communication Engineering** student from **VIT Chennai** (2022-2026, CGPA 9.18).  
-My focus areas are **Embedded Systems**, **IoT**, **VLSI (RTL Design)**, and **AI-based healthcare innovations**.  
+I build projects that connect hardware, firmware, and data—from an ESP32-based flight display to IoT appliance control and digital bus interfaces.
 
-I love building **real-world, patentable IoT + AI projects** that solve Indian healthcare inefficiencies — integrating sensors, microcontrollers, and edge intelligence.  
+🎓 **B.Tech, Electronics and Communication Engineering** · VIT Chennai · 2022–2026  
+**CGPA:** 9.18
 
----
+## Featured Projects
 
-### ⚙️ Core Technical Skills
-- **Embedded Systems:** ESP32 / ESP8266 / Jetson Nano / Raspberry Pi  
-- **Programming:** C, C++, Python (Flask, OpenCV, TensorFlow Lite Micro)  
-- **Electronics:** PCB Design (KiCad, Altium), Communication Protocols (UART, SPI, I2C, CAN)  
-- **AI & Data:** Computer Vision, Sensor Fusion, MQTT & REST APIs  
-- **Tools:** Arduino IDE, PlatformIO, MATLAB, Verilog HDL, Vivado  
+| Project | What you'll find | Technologies |
+| --- | --- | --- |
+| [Real-Time Avionics Display](https://github.com/Vinay-ix/Real-Time-Avionics-PFD-ESP32) | An educational primary flight display prototype with sensor fusion, serial telemetry, a desktop display, screenshots, and demo videos. | ESP32, C++, MPU6050, ADXL345, BMP280, Processing |
+| [AHB-to-APB Bridge](https://github.com/Vinay-ix/AHB-to-APB-Bridge-verification) | Verilog bridge modules and simulation examples for mapping AHB reads and writes to APB transfers. | Verilog, RTL design, bus protocols |
+| [LMS Noise Reduction](https://github.com/Vinay-ix/Noise-Reduction-in-Signal-Processing-MATLAB) | An adaptive filtering experiment using audio with added Gaussian noise and a clean reference signal, with waveform plots and audio playback. | MATLAB, DSP, LMS filtering |
 
----
+**More embedded work:** [ESP32 Home Automation with Blynk](https://github.com/Vinay-ix/home-automation-esp32-blynk) — smartphone control of a four-channel relay module.
 
-### 🧩 Featured Projects
-🚑 **AI-Powered Intelligent Nurse Calling & Emergency Alert System**  
-> Jetson Nano + ESP8266 + biomedical sensors + Flask + Telegram alerts for patient monitoring.  
+[Browse my public repositories →](https://github.com/Vinay-ix?tab=repositories)
 
-📡 **ESP32 Voice Assistant with ChatGPT**  
-> Voice-controlled embedded AI system using ESP32 & TensorFlow Lite Micro.  
+## Technical Skills
 
-📈 **Noise Reduction in Biomedical Signal Processing**  
-> MATLAB LMS algorithm for adaptive filtering in ECG/PPG signals.  
+- **Programming:** C, C++, Python, Verilog HDL
+- **Embedded systems:** ESP32, ESP8266, Arduino, sensor interfacing, serial communication
+- **Signal processing:** MATLAB, adaptive filtering, sensor fusion
+- **Development tools:** Arduino IDE, PlatformIO, Git, Linux
 
-Check out all my repositories 👉 [github.com/Vinay-ix?tab=repositories](https://github.com/Vinay-ix?tab=repositories)
+## Interests
 
----
+I'm interested in real-time embedded systems, edge AI, and hardware–software integration. I also explore RTL design and verification, with a focus on understanding how digital interfaces behave.
 
-### 🌐 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/vinay-sharma-643422310](https://www.linkedin.com/in/vinay-sharma-643422310/) 
-- ✉️ **Email:** vinaysharma17005@gmail.com  
-- 📷 **GitHub:** [github.com/Vinay-ix](https://github.com/Vinay-ix)  
+## Connect
 
----
-
-### 🧠 Fun Fact
-I’m obsessed with **Jetson Nano optimization**, **AI assistants**, and **hardware-software co-design**.  
-Currently exploring **offline LLMs + sensor fusion** for edge AI projects.  
-
----
-## ⚙️ Tech Stack & Tools
-
-### 🧩 Programming & Scripting
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🧠 Embedded Systems & IoT
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-### 🔬 VLSI / RTL Design & Verification
-![Verilog HDL](https://img.shields.io/badge/Verilog-404040?style=for-the-badge&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-1A73E8?style=for-the-badge&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence_Tools-B22222?style=for-the-badge&logoColor=white)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-006699?style=for-the-badge&logoColor=white)
-![RTL Simulation](https://img.shields.io/badge/RTL_Simulation-2E86C1?style=for-the-badge)
-![Synthesis](https://img.shields.io/badge/Synthesis-1ABC9C?style=for-the-badge)
-![Static Timing Analysis](https://img.shields.io/badge/Static_Timing_Analysis-884EA0?style=for-the-badge)
-![DFT](https://img.shields.io/badge/DFT-2C3E50?style=for-the-badge)
-
----
-
-### 🧰 Software & Design Tools
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-003366?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-sharma-643422310/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-ix)
-[![Email](https://img.shields.io/badge/Email-vinaysharma.ece%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaysharma17005@gmail.com)
-
-
-⭐ *“Innovation in electronics isn’t about circuits — it’s about solving real human problems with them.”*
+[LinkedIn](https://www.linkedin.com/in/vinay-sharma-643422310/) · [Portfolio source](https://github.com/Vinay-ix/Portfolio) · [Email](mailto:vinaysharma17005@gmail.com)
