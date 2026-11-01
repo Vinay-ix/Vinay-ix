@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Vinay Sharma — Embedded Systems and Firmware</title>
+<desc id="desc">Where hardware meets possibility. A charcoal and terracotta banner with a circuit illustration.</desc>
+<defs>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#292928" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="16" fill="#141413"/>
+<rect x="2" y="2" width="1196" height="396" rx="15" fill="none" stroke="#292928"/>
+<text x="48" y="53" fill="#e6e4de" font-family="Georgia,serif" font-size="29" font-weight="bold">vs<tspan fill="#cc4529">.</tspan></text>
+<text x="103" y="51" fill="#aba9a2" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">VINAY SHARMA</text>
+<circle cx="53" cy="101" r="4" fill="#cc4529"/>
+<text x="68" y="106" fill="#aba9a2" font-family="monospace" font-size="12" letter-spacing="2">FIRMWARE / ROBOTICS / DIGITAL DESIGN</text>
+<text x="48" y="178" fill="#e6e4de" font-family="Georgia,serif" font-size="58">Where hardware</text>
+<text x="48" y="243" fill="#e6e4de" font-family="Georgia,serif" font-size="58">meets <tspan fill="#cc4529" font-style="italic">possibility.</tspan></text>
+<text x="50" y="291" fill="#aba9a2" font-family="Arial,sans-serif" font-size="17">Embedded systems &amp; firmware engineer.</text>
+<path d="M48 328 H660" stroke="#292928"/>
+<text x="50" y="358" fill="#aba9a2" font-family="monospace" font-size="12" letter-spacing="1">BUILT CLOSE TO THE HARDWARE.</text>
+<rect x="744" y="40" width="412" height="320" rx="12" fill="url(#grid)"/>
+<g fill="none" stroke="#cc4529" stroke-opacity=".5">
+<circle cx="950" cy="200" r="130"/><circle cx="950" cy="200" r="104"/>
+<path d="M744 123 H835 V172 H886 M1014 225 H1078 V282 H1156 M950 40 V136 M950 264 V360"/>
+</g>
+<g fill="#cc4529"><circle cx="744" cy="123" r="4"/><circle cx="1156" cy="282" r="4"/><circle cx="950" cy="70" r="4"/><circle cx="820" cy="200" r="4"/></g>
+<rect x="886" y="136" width="128" height="128" rx="12" fill="#1c1c1b" stroke="#cc4529"/>
+<g stroke="#73716a" stroke-width="3">
+<path d="M905 125 V136 M927 125 V136 M950 125 V136 M973 125 V136 M995 125 V136 M905 264 V275 M927 264 V275 M950 264 V275 M973 264 V275 M995 264 V275"/>
+<path d="M875 155 H886 M875 177 H886 M875 200 H886 M875 223 H886 M875 245 H886 M1014 155 H1025 M1014 177 H1025 M1014 200 H1025 M1014 223 H1025 M1014 245 H1025"/>
+</g>
+<text x="950" y="211" text-anchor="middle" fill="#e6e4de" font-family="Georgia,serif" font-size="44">VS</text>
+<text x="950" y="239" text-anchor="middle" fill="#aba9a2" font-family="monospace" font-size="9" letter-spacing="1">FIRMWARE ENGINEER</text>
+<text x="950" y="99" text-anchor="middle" fill="#aba9a2" font-family="monospace" font-size="10" letter-spacing="1">INPUT → IDEAS</text>
+<text x="950" y="311" text-anchor="middle" fill="#aba9a2" font-family="monospace" font-size="10" letter-spacing="1">OUTPUT → REAL SYSTEMS</text>
+</svg>
