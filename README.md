@@ -1,35 +1,79 @@
-# Hi, I'm Vinay Sharma 👋
+[![Vinay Sharma — Where hardware meets possibility.](assets/profile-banner.svg)](https://vinaysh.in)
 
-**Embedded Systems · Sensor Fusion · Digital Design**
+<p align="center">
+  <a href="https://vinaysh.in"><strong>Portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://vinaysh.in/resume.pdf">Resume ↓</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/vinay-sharma-643422310/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:vinaysharma17005@gmail.com">Email</a>
+</p>
 
-I build projects that connect hardware, firmware, and data—from an ESP32-based flight display to IoT appliance control and digital bus interfaces.
+I'm **Vinay**, an embedded systems and firmware engineer building the software that brings hardware to life.
 
-🎓 **B.Tech, Electronics and Communication Engineering** · VIT Chennai · 2022–2026  
-**CGPA:** 9.18
+Currently a **Graduate Engineer Trainee in R&D at JKW Innovatics**, working on warehouse robotics, real-time control, and sensor integration.
 
-## Featured Projects
+Based in **Greater Noida, India** · **B.Tech ECE, VIT Chennai (2022–2026)**
 
-| Project | What you'll find | Technologies |
-| --- | --- | --- |
-| [Real-Time Avionics Display](https://github.com/Vinay-ix/Real-Time-Avionics-PFD-ESP32) | An educational primary flight display prototype with sensor fusion, serial telemetry, a desktop display, screenshots, and demo videos. | ESP32, C++, MPU6050, ADXL345, BMP280, Processing |
-| [AHB-to-APB Bridge](https://github.com/Vinay-ix/AHB-to-APB-Bridge-verification) | Verilog bridge modules and simulation examples for mapping AHB reads and writes to APB transfers. | Verilog, RTL design, bus protocols |
-| [LMS Noise Reduction](https://github.com/Vinay-ix/Noise-Reduction-in-Signal-Processing-MATLAB) | An adaptive filtering experiment using audio with added Gaussian noise and a clean reference signal, with waveform plots and audio playback. | MATLAB, DSP, LMS filtering |
+---
 
-**More embedded work:** [ESP32 Home Automation with Blynk](https://github.com/Vinay-ix/home-automation-esp32-blynk) — smartphone control of a four-channel relay module.
+## 01 / Selected work
 
-[Browse my public repositories →](https://github.com/Vinay-ix?tab=repositories)
+### [Avionics flight display ↗](https://github.com/Vinay-ix/Real-Time-Avionics-PFD-ESP32)
 
-## Technical Skills
+From sensor readings to flight instrumentation. An educational ESP32-based display prototype combining attitude filtering, barometric altitude, and serial telemetry with a Processing interface.
 
-- **Programming:** C, C++, Python, Verilog HDL
-- **Embedded systems:** ESP32, ESP8266, Arduino, sensor interfacing, serial communication
-- **Signal processing:** MATLAB, adaptive filtering, sensor fusion
-- **Development tools:** Arduino IDE, PlatformIO, Git, Linux
+`ESP32` `C++` `I²C` `UART` `Sensor Fusion` `Processing`
 
-## Interests
+[Source & setup](https://github.com/Vinay-ix/Real-Time-Avionics-PFD-ESP32) · [Demo videos](https://github.com/Vinay-ix/Real-Time-Avionics-PFD-ESP32/tree/main/media/demo)
 
-I'm interested in real-time embedded systems, edge AI, and hardware–software integration. I also explore RTL design and verification, with a focus on understanding how digital interfaces behave.
+### [AHB-to-APB bridge ↗](https://github.com/Vinay-ix/AHB-to-APB-Bridge-verification)
 
-## Connect
+Exploring the interface between high-performance and peripheral buses through Verilog bridge modules and read/write simulation examples.
 
-[LinkedIn](https://www.linkedin.com/in/vinay-sharma-643422310/) · [Portfolio source](https://github.com/Vinay-ix/Portfolio) · [Email](mailto:vinaysharma17005@gmail.com)
+`Verilog` `RTL Design` `AHB / APB` `Simulation`
+
+### [Connected home control ↗](https://github.com/Vinay-ix/home-automation-esp32-blynk)
+
+An ESP32 and Blynk project for smartphone control of a four-channel relay module, bringing a simple hardware interface onto a connected dashboard.
+
+`ESP32` `Arduino` `Blynk IoT` `Wi-Fi`
+
+**Signal processing:** [LMS audio noise reduction in MATLAB](https://github.com/Vinay-ix/Noise-Reduction-in-Signal-Processing-MATLAB)  
+[Explore all public repositories ↗](https://github.com/Vinay-ix?tab=repositories)
+
+## 02 / What I bring to the bench
+
+| Area | Focus |
+| --- | --- |
+| **Firmware & real-time systems** | C/C++, Embedded C, FreeRTOS, microcontroller firmware |
+| **Protocols & telemetry** | UART, SPI, I²C, CAN, MQTT |
+| **Digital design & RTL** | Verilog, SystemVerilog, FPGA design, ModelSim, Intel Quartus |
+| **Hardware integration** | Sensor interfacing, oscilloscope and logic analyzer debugging |
+| **Tools & scripting** | Python, MATLAB, Arduino IDE, PlatformIO, Git, Linux |
+
+## 03 / Experience
+
+**JKW Innovatics · Graduate Engineer Trainee, R&D**  
+July 2026–present · Greater Noida  
+Embedded firmware, real-time control, and sensor integration for autonomous warehouse robotics.
+
+**Mafkin Robotics · Embedded Systems Intern**  
+October 2024–January 2025 · Chennai  
+Microcontroller firmware, sensor integration, communication interfaces, and hardware debugging for robotics platforms.
+
+## 04 / A little firmware personality
+
+```text
+vinay@firmware-shell:~$ whoami
+
+  role       Embedded systems & firmware engineer
+  focus      Robotics / real-time control / digital design
+  approach   Read the waveform. Trace the signal. Understand the system.
+```
+
+---
+
+**Let's build something close to the hardware.**  
+[Portfolio](https://vinaysh.in) · [LinkedIn](https://www.linkedin.com/in/vinay-sharma-643422310/) · [LeetCode](https://leetcode.com/u/vinayy_79/) · [Email](mailto:vinaysharma17005@gmail.com)
